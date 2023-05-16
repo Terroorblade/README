@@ -12,11 +12,14 @@ ol li {
     line-height:200%
 }
 footer {
-    padding-top: 3px;
-    padding-bottom: 3px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     padding-left:  30px;
-    background: #444;
-    color: white;
+    background: gray;
+    color: purple;
+	border: inset;
+	border-color: red;
+	
 }
 a.foo:hover {
   text-decoration-color: black;
